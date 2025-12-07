@@ -28,7 +28,7 @@ This project was created as part of a programming assignment focusing on:
 
 ---
 
-### 🏗️ Structures (Structs)
+###  Structures (Structs)
 A `UserInfo` struct is used to group related user data:
 
 ```cpp
